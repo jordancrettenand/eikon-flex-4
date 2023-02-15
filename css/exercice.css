@@ -81,3 +81,10 @@
 }
 
 /*9. exercice-all-in */
+.exercice-all-in .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap-reverse;
+}
